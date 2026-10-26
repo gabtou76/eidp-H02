@@ -26,7 +26,7 @@ public class Main {
          * Option C = 1
          * Nicht aussagbar ob Option A oder B
          * 
-         * 
+         * Hat alles gut funktioniert!
          */
     }
 }
